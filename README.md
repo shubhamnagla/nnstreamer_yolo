@@ -49,7 +49,7 @@ This repository contains a GStreamer pipeline implementation for performing obje
     
 ## Video Demo
 
-[![Demo Video] (.images/yolov8.gif)
+![Demo Video](images/yolov8.gif)
 
 ## Acknowledgements
 
