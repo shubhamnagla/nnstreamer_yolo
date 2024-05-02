@@ -46,6 +46,10 @@ This repository contains a GStreamer pipeline implementation for performing obje
     ```bash
     $ ./nnstreamer_yolov8_pipeline.py
     ```
+    
+## Video Demo
+
+[![Demo Video] (.images/yolov8.gif)
 
 ## Acknowledgements
 
