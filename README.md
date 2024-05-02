@@ -38,7 +38,7 @@ This repository contains a GStreamer pipeline implementation for performing obje
 1. Clone this repository:
 
     ```bash
-    $ https://github.com/shubhamnagla/nnstreamer_yolo.git
+    $ git clone https://github.com/shubhamnagla/nnstreamer_yolo.git
     ```
 
 2. Run the GStreamer pipeline:
