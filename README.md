@@ -21,7 +21,7 @@ This repository contains a GStreamer pipeline implementation for performing obje
 
     **Export to tflite model**
 
-   '''bash
+   ```bash
    from ultralytics import YOLO
 
    # Load a model
