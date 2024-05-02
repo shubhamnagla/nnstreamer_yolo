@@ -1,4 +1,4 @@
-# YOLOv8s Object Detection with TensorFlow Lite and GStreamer
+# YOLOv8s Object Detection with TensorFlow Lite and GStreamer Utilizing NNStreamer
 
 This repository contains a GStreamer pipeline implementation for performing object detection using the YOLOv8s (float32) model with TensorFlow Lite. The pipeline utilizes the nnstreamer plugin for seamless integration and efficient inference.
 
@@ -38,13 +38,13 @@ This repository contains a GStreamer pipeline implementation for performing obje
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your_username/your_repo.git
+    $ https://github.com/shubhamnagla/nnstreamer_yolo.git
     ```
 
 2. Run the GStreamer pipeline:
 
     ```bash
-    ./nnstreamer_yolov8_pipeline.py
+    $ ./nnstreamer_yolov8_pipeline.py
     ```
 
 ## Acknowledgements
